@@ -8,7 +8,7 @@ this_script_url="https://scripts.pitterpatter.io/master.sh"
 this_script_name="Master Script Repo"
 formatter_url="https://raw.githubusercontent.com/pitterpatter22/TaskFormatter/main/bash_task_formatter/task_formatter.sh"
 BRANCH="main"  # or whatever branch you are using
-github_username="pitterpatter22"
+github_username="driftywinds"
 github_repo_name="Script-Repo"
 
 # Temporary file tracking and log file list
